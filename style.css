@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* This will remove the scroll bar */
+    height: 100%; /* Make sure body takes full height */
+}
+
+canvas {
+    display: block; /* Prevents scroll caused by the canvas */
+    margin: auto;
+}
