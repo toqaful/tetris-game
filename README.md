@@ -19,7 +19,7 @@
 </ul>
 <p>The goal is to complete as many lines as possible by arranging the falling pieces into complete rows. The more lines you clear, the higher your score!<br><br>🛠️ Installation &amp; Setup</p>
 <ol>
-    <li><strong>Clone the repository</strong>:<br>git clone <a target="_blank" rel="noopener noreferrer" href="https://github.com/yourusername/tetris-game.git">https://github.com/yourusername/tetris-game.git</a><br>&nbsp;</li>
+    <li><strong>Clone the repository</strong>:<br>git clone <a target="_blank" rel="noopener noreferrer" href="https://github.com/toqaful/tetris-game.git">https://github.com/yourusername/tetris-game.git</a><br>&nbsp;</li>
     <li><strong>Navigate to the project directory</strong>:<br>cd tetris-game<br>&nbsp;</li>
     <li><strong>Open </strong><code><strong>index.html</strong></code><strong> in your browser</strong>: You can simply open the <code>index.html</code> file in your browser to start playing the game locally.<br>Alternatively, use a simple HTTP server:<br>npx serve<br>&nbsp;</li>
     <li>
